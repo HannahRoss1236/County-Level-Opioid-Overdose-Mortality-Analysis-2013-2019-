@@ -21,7 +21,7 @@ Full methods and reasoning are in [`report.md`](report.md).
 | Opioid prescribing rate | 0.999 | 0.999–1.000 | 0.001 |
 | Poverty rate | 1.016 | 1.013–1.019 | <0.001 |
 - Each 1-point increase in county poverty rate was associated with a ~1.6% higher overdose death rate, when prescribing rate was held constant
-- Prescribign rate shows a small significant inverse association with mortality, which overlaps with the shift seen post-2013 shift towards illicit synthetic opioids.
+- Prescribing rate shows a small significant inverse association with mortality, which overlaps with the shift seen post-2013 shift towards illicit synthetic opioids.
 
 - ![Rate ratios](forest_plot.png)
 

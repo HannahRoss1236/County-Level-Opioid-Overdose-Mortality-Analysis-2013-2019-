@@ -23,7 +23,7 @@ Full methods and reasoning are in [`report.md`](report.md).
 - Each 1-point increase in county poverty rate was associated with a ~1.6% higher overdose death rate, when prescribing rate was held constant
 - Prescribign rate shows a small significant inverse association with mortality, which overlaps with the shift seen post-2013 shift towards illicit synthetic opioids.
 
-- ![Rate ratios](output/figures/forest_plot.png)
+- ![Rate ratios](forest_plot.png)
 
 # Limitations
 - Supressed cells were imputed at the midpoint, analysis with a lower imputed number for supressed cells is important
